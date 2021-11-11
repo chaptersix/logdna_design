@@ -14,3 +14,4 @@ This is my best guess as to what the overall design of LogDna is. There as likel
 
 ### Comments on Elastic Search arcitecture and potitenally useful features
 
+### Comments on how this architecture would scale
